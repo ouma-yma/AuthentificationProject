@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthentificationProject</string>
+    <string name="message">Ecrivez votre nom et votre mot de passe:</string>
+    <string name="button_connecter">Connecter</string>
+    <string name="name">Nom</string>
+    <string name="Passeword">mot de passe</string>
+</resources>
